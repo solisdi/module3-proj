@@ -1,0 +1,17 @@
+Create SPL Token
+cargo install spl-token-cli
+spl-token create-token --decimals 0 #initializes a new mint account
+spl-token create-account EH8G9RCEyBGXh1fJiDrmkDA6rgPha6m1hcMbDdnETvs7 
+spl-token mint 57ogJd2jTXfkmS67PFCn78psCE9HLrFVzpJK2BbaucSY 1 
+spl-token accounts
+
+Token: 9W7nLSaJfvtk16vNnf58JEuuXADjAYhUp8XBoQvboGuu
+Token Account: EYk9d3qksh2J6Kygu5BSqyPvU4eybHtpYzUS9PcGS6U2
+
+Wallets
+Owner: 4e85E2miB2gQo8KQGSAZPZH79P2vhStJ4rMHPDzoDPon
+Treasury: 9o6iAKjvNWaYe15W9dyHisVYXhqmStPQiZwdDgHH4cPp
+Creator: 8W6QAzSNkxLaSAF5HGs3SrJtmQbXmDTmH6Ggn71FMKPW
+
+Candy Machine ID: 8Y3URGASxwhNJ4Uaiir2K2vp4zBSPAZ4TSdRKkEFMTwv
+https://www.solaneyes.com/address/8Y3URGASxwhNJ4Uaiir2K2vp4zBSPAZ4TSdRKkEFMTwv
